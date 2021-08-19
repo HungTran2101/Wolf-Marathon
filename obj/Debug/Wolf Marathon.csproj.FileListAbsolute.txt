@@ -1,0 +1,9 @@
+D:\.Code VS2019\Wolf Marathon\bin\Debug\Wolf Marathon.exe.config
+D:\.Code VS2019\Wolf Marathon\bin\Debug\Wolf Marathon.exe
+D:\.Code VS2019\Wolf Marathon\bin\Debug\Wolf Marathon.pdb
+D:\.Code VS2019\Wolf Marathon\obj\Debug\Wolf_Marathon.Properties.Resources.resources
+D:\.Code VS2019\Wolf Marathon\obj\Debug\Wolf Marathon.csproj.GenerateResource.cache
+D:\.Code VS2019\Wolf Marathon\obj\Debug\Wolf Marathon.csproj.CoreCompileInputs.cache
+D:\.Code VS2019\Wolf Marathon\obj\Debug\Wolf Marathon.exe
+D:\.Code VS2019\Wolf Marathon\obj\Debug\Wolf Marathon.pdb
+D:\.Code VS2019\Wolf Marathon\obj\Debug\Wolf_Marathon.Form1.resources
