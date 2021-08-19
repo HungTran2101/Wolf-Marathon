@@ -1,3 +1,3 @@
 # Wolf-Marathon
-a jump boring game with cute drawing things
+a jumping boring game with cute drawing things
 
